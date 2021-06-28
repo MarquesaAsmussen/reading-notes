@@ -1,11 +1,11 @@
 # reading-notes
 
 ## My name is Marquesa. Hello Everyone
--idea1
--idea2
--idea3
+- idea1
+- idea2
+- idea3
 
-**This is some bold text**
-*This is italicized*
+- **This is some bold text**
+- *This is italicized*
 
 - [Star Wars](https://www.starwars.com)
