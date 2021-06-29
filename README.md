@@ -9,10 +9,10 @@
 - In his blog ["How you can benefit from a growth mindset"](https://www.atlassian.com/blog/inside-atlassian/growth-mindset), Steve Haffenden explores two patterns of thought-- one that leads to growth, develpoment and accomplishment, and another that lends itself to frustration, procrastination and abandoning tasks.
 
 
--reminders:
--
--
--
+#### reminders:
+- allow myself to ask/recognize, "Am I avoiding a task and losing focus because it has become difficult?"
+- take a step back, breathe and when ready start to examine the challenge one bite at a time (especially by talking through the problem out loud, not just mentally)
+- remember the "instant gratification monkey and the "gumption trap"
 
 
 
