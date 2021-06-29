@@ -18,7 +18,7 @@
 ---Robert Persig, *Zen and the Art of Motorcycle Maintenance* 
 
 ##### Table of Contents
-- [Day 1, session 1](read01-learning-markdown.md)
+- [Day 1, session 1](markdown.md)
 - Day 1, session 2
 - Day 2, session 1
 - Day 2, session 2
