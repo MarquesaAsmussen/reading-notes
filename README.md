@@ -20,5 +20,4 @@
 ##### Table of Contents
 - [Day 1, session 1](markdown.md)
 - [Day 1, session 2](terminal.md)
-- Day 2, session 1
-- Day 2, session 2
+- [Day 2, session 1](git-intro.md)
