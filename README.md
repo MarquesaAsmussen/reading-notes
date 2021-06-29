@@ -15,4 +15,4 @@
 - remember the "instant gratification monkey"
 - acknowledge the "gumption trap" 
 - "The gumption trap: the phenomenon of knowing what needs to be done, but lacking the motivation to do it."
----Robert Persig, *Zen and the Art of Motorcycle Maintenance*
+---Robert Persig, *Zen and the Art of Motorcycle Maintenance* 
