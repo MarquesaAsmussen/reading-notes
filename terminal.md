@@ -31,13 +31,26 @@
  -**Text Editor**: edits text, manages text, manages files
  -**IDE** *(Integrated Development Environment)*: suite of text editor, file manager, compiler and debugger softwares in one package. Not needed as a beginner, will be ready to use with more experience in normal text editor.
  
+ --------------------------------------------------------------------------------------------------------------
+ 
+ *take notes on how commands are used, and which look similar to how you are used to using the GUI File Explorer/Finder.*
+ Record in your reading-notes a “cheat sheet” or other resource for basic terminal usage
+ 
  
  ## Using the Terminal
  
+ **Terminal**: text-based interface to computer. Similar to GUI, but allows more than one command line to be open and operating simultaneously.
+ 
  ### The Command Line
+ 
+ *Allows commands to be typed directly into system*
+ 
+ 
  
  
  ### Basic Navigation
+ 
+ 
  
  ### About Files
  
