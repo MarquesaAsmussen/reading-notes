@@ -19,7 +19,7 @@ There are *many* text editors
 - Pre-installed options-- *Text Edit* (Mac), *Notepad* (Windows), *Gedit/various others* (Linux)
  These are extremely basic. They *can* be used to make websites, but probably not the most efficient options. They will not feature code 
  
-  If using these, remember: 
-  1.Make sure it is in plain text with no other bold/italicize/etc options
-  2.Create a folder on computer to store entire website, with additional pages in folders/sub-folders of main website
-  3.Save files with correct extensions (HTML file as .html, CSS file as .css)
+ --If using these, remember: 
+ --1. Make sure it is in plain text with no other bold/italicize/etc options
+ --2. Create a folder on computer to store entire website, with additional pages in folders/sub-folders of main website
+ --3. Save files with correct extensions (HTML file as .html, CSS file as .css)
