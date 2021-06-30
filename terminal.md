@@ -6,7 +6,7 @@
   * [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
   * [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
-##Choosing a Text Editor
+## Choosing a Text Editor
 *Document in your reading-notes the different classifications of text editors, and why it’s important for software developers to be thoughtful about their selection of what they use to write code*
 Features to look for in a good text editor: 
 - code completion *(makes like easier, writing quicker)*
