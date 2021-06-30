@@ -8,7 +8,7 @@
 
 ## Choosing a Text Editor
 *Document in your reading-notes the different classifications of text editors, and why it’s important for software developers to be thoughtful about their selection of what they use to write code*
-**Features to look for in a good text editor:
+**Features to look for in a good text editor:**
 - code completion *(makes like easier, writing quicker)*
 - syntax highlighting *(easier to read/find errors)*
 - theme variety *(eye strain)*
