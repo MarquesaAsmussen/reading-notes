@@ -18,6 +18,11 @@
 ---Robert Persig, *Zen and the Art of Motorcycle Maintenance* 
 
 ##### Table of Contents
-- [Day 1, session 1](markdown.md)
-- [Day 1, session 2](terminal.md)
-- [Day 2, session 1](git-intro.md)
+- [Day 1, session 1 (01) - Markdown](markdown.md)
+- [Day 1, session 2 (02) - Terminal](terminal.md)
+- [Day 2, session 1 (03) - Git](git-intro.md)
+- [Day 2, session 2 (04) - HTML]()
+- [Day 3, session 1 (05) - CSS]()
+- [Day 3, session 2 (06) - JavaScript]()
+- [Day 4, session 1 (07) - ]()
+- [Day 4, session 2 (08) - ]()
