@@ -45,14 +45,24 @@
  
  *Allows commands to be typed directly into system*
  
- 
- 
+ ***
  
  ### Basic Navigation
+ 
+ cd
+ mkdir
+ pwd
+ ls
+ ls -l: list in a long formatls -l
+ 
+ 
+ 
  
  Here is a [quick guide](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/) to 17 basic terminal commands.
  
  Here is a google sheet for a more extensive [cheat sheet](https://docs.google.com/spreadsheets/d/1FKZf2s0qzeWJmM2Yw4JfXQNuWKkpSA-_lDh6N9oHczg/edit#gid=0) found on [makeuseof.com](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/). Thank you, [Paul Michael Armstrong](https://github.com/PaulMichaelArmstrong), for sharing it with me!
+ 
+ ***
  
  ### About Files
  
