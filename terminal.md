@@ -33,17 +33,17 @@
  
  --------------------------------------------------------------------------------------------------------------
  
- ## Using the Terminal
+## Using the Terminal
  
  **Terminal**: text-based interface to computer. Similar to GUI, but allows more than one command line to be open and operating simultaneously.
  
- ### The Command Line
+### The Command Line
  
  *Allows commands to be typed directly into system*
  
  ***
  
- ### Basic Navigation
+### Basic Navigation
  
  cd
  
@@ -64,7 +64,7 @@
  
  ***
  
- ### About Files
+### About Files
  
  
  
