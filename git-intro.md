@@ -1,37 +1,26 @@
-# Read: 03 - Intro to Git
+# Read: 03 - [Intro to Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 **topics**
-* blah
-* blah blah
-  * b
-  * b
+* Version Control
+  * Local Version Control
+  * Centralized Version Control
+  * Distributed Version Control 
+* What is Git?
+  * Why do we have Git?
+  * Git vs. GitHub
 
-## 
+## Version Control
+### Local Version Control 
 
-### Features 
-- code
-- syntax 
+### Centralized Version Control 
 
-### There 
-- **Pre-installed options** -- Linux
- These are 
+### Distributed Version Control
+
+## What is Git?
+### Why do we have Git?
+### Git vs. GitHub
+
+ -**Git**: 
+ -**GitHub**: Allows you to share your projects and code with the world 
  
-   If using these, remember: 
-   1. Make 
-   2. Create 
-   3. Save 
-
-- **Third-Party Options** -- Windows
- Some 
- 
- ### T vs. I
- 
- -**T**: edits
- -**I**: suite 
- 
-
-
-
-
-
 
 back to [main page](README.md)
