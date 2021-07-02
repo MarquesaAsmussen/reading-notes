@@ -33,10 +33,6 @@
  
  --------------------------------------------------------------------------------------------------------------
  
- *take notes on how commands are used, and which look similar to how you are used to using the GUI File Explorer/Finder.*
- Record in your reading-notes a “cheat sheet” or other resource for basic terminal usage
- 
- 
  ## Using the Terminal
  
  **Terminal**: text-based interface to computer. Similar to GUI, but allows more than one command line to be open and operating simultaneously.
@@ -50,9 +46,13 @@
  ### Basic Navigation
  
  cd
+ 
  mkdir
+ 
  pwd
+ 
  ls
+ 
  ls -l: list in a long formatls -l
  
  
