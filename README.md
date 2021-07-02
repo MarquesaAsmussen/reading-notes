@@ -24,5 +24,5 @@
 - [Day 2, session 2 (04) - HTML](HTML.md)
 - [Day 3, session 1 (05) - CSS](CSS.md)
 - [Day 3, session 2 (06) - JavaScript](javascript-intro.md)
-- [Day 4, session 1 (07) - ](javascript-programming.md)
-- [Day 4, session 2 (08) - ](operators-and-loops.md)
+- [Day 4, session 1 (07) - JavaScript Programming](javascript-programming.md)
+- [Day 4, session 2 (08) - Operators and Loops](operators-and-loops.md)
