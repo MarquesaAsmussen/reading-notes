@@ -1,4 +1,4 @@
-# reading-notes
+# Reading Notes
 
 ## My name is Marquesa. Hello Everyone
 [my page](https://github.com/MarquesaAsmussen)
