@@ -1,5 +1,7 @@
 # Read: 05 - CSS
-**topics**
+
+ topics
+
 * [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
 * [How to Add CSS](https://www.w3schools.com/css/css_howto.asp)
@@ -24,9 +26,9 @@
 * **Inline CSS** - used to apply a unique style for a single element. Added to the relevant element in the **< body >** section.
 
 * **Multiple Style Sheets** - If some properties have been defined for the same selector (element) in different style sheets, the value from the *last* read style sheet will be used.
-  * If the internal style is defined after the link to the external style sheet, the <h1> elements will be "orange".
+  * If the internal style is defined after the link to the external style sheet, the < h1 > elements will be "orange".
 
-  * However, if the internal style is defined before the link to the external style sheet, the <h1> elements will be "navy".
+  * However, if the internal style is defined before the link to the external style sheet, the < h1 > elements will be "navy".
 
 * **Cascading Order** - Styles "cascade" into a new "virtual" style sheet with the following prioritization:
   1. Inline style (inside an HTML element)
@@ -39,7 +41,6 @@
 ## CSS Color Property
 
 * **"color" property** - specifies text color
-
 
 ## CSS Reference
 
