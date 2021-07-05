@@ -1,4 +1,4 @@
-# Read: 05 - Dynamic web pages with JavaScript
+# Read: 06 - Dynamic web pages with JavaScript
 
 topics
 
