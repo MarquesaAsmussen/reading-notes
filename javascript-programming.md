@@ -68,7 +68,68 @@ Left values are the destination of an assignment.
 
 ## [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_declarations)
 
-**function** : A function in JavaScript is ****similar to a procedure—a set of statements that performs a task or calculates a value. To qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output. To use a function, you must define it somewhere in the scope from which you wish to call it.
+**function** : A function in JavaScript is ****similar to a procedure—a set of statements that performs a task or calculates a value. To qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.
+*To use a function, you must define it somewhere in the scope from which you wish to call it.*
+
+### JavaScript function syntax
+
+A JS function is defined with the *function* keyword, followed by a name, followed by parentheses ().
+
+* Function parameters are listed inside the parentheses () in the function definition.
+
+* Function arguments are the values received by the function when it is invoked.
+
+* Inside the function, the arguments (the parameters) behave as local variables.
+
+### Function invocation
+
+The code inside the function will execute when "something" invokes (calls) the function:
+
+* When an event occurs (when a user clicks a button)
+
+* When it is invoked (called) from JavaScript code
+
+* Automatically (self invoked)
+
+### Function Return
+
+When JavaScript reaches a return statement, the function will stop executing.
+
+If the function was invoked from a statement, JavaScript will "return" to execute the code after the invoking statement.
+
+### The () operator invokes the function
+
+If you don't remember the "()", will just give you back the function object, rather than the function result you were looking for.
+
+### Functions Used as Variable Values
+
+Instead of using a variable to store the return value of a function:
+
+* let x = toCelsius(77);
+* let text = "The temperature is " + x + " Celsius";
+
+You can use the function directly, as a variable value:
+
+* let text = "The temperature is " + toCelsius(77) + " Celsius";
+
+### Local Variables
+
+> *"What happens in the function, stays in the function."*
+
+Variables declared within a JavaScript function, become **LOCAL** to the function. Local variables can *only* be accessed from within the function.
+
+>// code here can NOT use carName
+>
+>function myFunction() {
+>let carName = "Volvo";
+>// code here CAN use carName
+>}
+>
+>// code here can NOT use carName
+
+*Since local variables are only recognized inside their functions, variables with the same name can be used in different functions.*
+
+Local variables are **created** when a function starts, and **deleted** when the function is completed.
 
 ### Defining functions
 
@@ -160,6 +221,6 @@ The deprecated unescape() method computes a new string in which hexadecimal esca
 
 ## [Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
 
-**control flow** : the order in which the computer executes statements in a script.
+**control flow** : the order in which the computer executes statements in a script. Code is run in order from the first line in the file to the last line, unless the computer runs across the (extremely frequent) structures that change the control flow, such as conditionals and loops.
 
 back to [main page](README.md)
