@@ -35,13 +35,13 @@
 
 ###### Code 201 REading Notes
 
-- [Day 1 (01) - Introductory HTML and JavaScript](html-js.md)
+- [Day 1 (01) - Introductory HTML and JavaScript](class-01.md)
 - [Day 2 (02) - HTML Text, CSS Introduction, and Basic JavaScript Instructions](html-css-js.md)
 - [Day 3 (03) - HTML Lists, CSS Boxes, JS Control Flow](lists-boxes-flow.md)
 - [Day 4 (04) - HTML Links, CSS Layout, JS Functions](links-layout-functions.md)
 - [Day 5 (05) - HTML Images; CSS Color & Text](css-color-text.md)
 - [Day 6 (06) - JS Object Literals; The DOM](literals-dom.md)
-- [Day 7 (07) - HTML Tables; JS Constructor Functions](tables-functions.md)
+- [Day 7 (07) - HTML Tables; JS Constructor Functions](class-07.md)
 - [Day 8 (08) - More CSS Layout](more-css-layout.md)
 - [Day 9 (09) - Forms and Events](forms-events.md)
 - [Day 10 (10) - JS Debugging](js-debugging.md)
