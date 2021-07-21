@@ -33,7 +33,7 @@
 - [Day 4, session 1 (07) - JavaScript Programming](javascript-programming.md)
 - [Day 4, session 2 (08) - Operators and Loops](operators-and-loops.md)
 
-###### Code 201 REading Notes
+###### Code 201 Reading Notes and Lecture Notes
 
 - [Day 1 (01) - Introductory HTML and JavaScript](class-01.md)
 - [Day 2 (02) - HTML Text, CSS Introduction, and Basic JavaScript Instructions](html-css-js.md)
@@ -42,7 +42,8 @@
 - [Day 5 (05) - HTML Images; CSS Color & Text](css-color-text.md)
 - [Day 6 (06) - JS Object Literals; The DOM](literals-dom.md)
 - [Day 7 (07) - HTML Tables; JS Constructor Functions](class-07.md)
-- [Day 8 (08) - More CSS Layout](more-css-layout.md)
+  - [Lecture Notes](lecture-07.md)
+- [Day 8 (08) - More CSS Layout](class-08.md)
 - [Day 9 (09) - Forms and Events](forms-events.md)
 - [Day 10 (10) - JS Debugging](js-debugging.md)
 - [Day 11 (11) - Assorted Topics](assorted-topics.md)

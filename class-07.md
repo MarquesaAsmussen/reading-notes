@@ -6,7 +6,10 @@
 
 ## Tables (HTML book - ch 6, pp.126-145)
 
-
+tags
+<table>
+<tr>
+<td>
 
 ## Functions, Methods, and Objects (JS book - ch 3, pp.106-144)
 
