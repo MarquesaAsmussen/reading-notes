@@ -77,3 +77,4 @@
 - [mongoDB]()
 - [auth0]()
 - [RESTful]()
+- const - "not going to be reassigned" what does that mean?
