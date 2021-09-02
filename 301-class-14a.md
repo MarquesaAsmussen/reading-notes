@@ -28,3 +28,5 @@
 2. **Why do diverse companies perform better?** - because people from varied backgrounds and upbringings will see problems differently and will contribute different solutions.
 
 3. **Give an example of how a diverse company can serve a diverse user base or vise-versa.** - a diverse company will be more likely to have employees, and therefore viewpoints, more representative of their user base. For example, an all-male or majority male company will likely not understand the perspective of thier female users as well as they could if there was a high female presence throughout the company.
+
+back to [main page](README.md)
