@@ -70,7 +70,7 @@
 - [Day 12 (12) - Mongo and Mongoose](301-class-12.md)
 - [Day 13 (13) - CRUD](301-class-13.md)
 - [Day 14 (14a) - Diversity & Inclusion in the Tech Industry](301-class-14a.md)
-- [Day 14 (14b) - Project Ideas](301-class-14b.md)
+- [Day 14 (14b) - Authentication](301-class-14b.md)
 
 ## Things I want to know more about
 
