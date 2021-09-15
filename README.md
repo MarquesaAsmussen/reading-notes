@@ -18,7 +18,7 @@
 - remember the "instant gratification monkey"
 - acknowledge the "gumption trap"
 - "The gumption trap: the phenomenon of knowing what needs to be done, but lacking the motivation to do it."
----Robert Persig, *Zen and the Art of Motorcycle Maintenance*
+  ---Robert Persig, _Zen and the Art of Motorcycle Maintenance_
 
 ##### Table of Contents
 
@@ -58,7 +58,7 @@
 
 - [Day 1 (01) - Introduction to React and Components](301-class-01.md)
 - [Day 2 (02) - State and Props](301-class-02.md)
-- [Day 3 (03) - Passing Functions as Props](301-class-03.msd)
+- [Day 3 (03) - Passing Functions as Props](301-class-03.md)
 - [Day 4 (04) - React and Forms](301-class-04.md)
 - [Day 5 (05) - Putting it all together](301-class-05.md)
 - [Day 6 (06) - NODE.JS](301-class-06.md)
