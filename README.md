@@ -72,9 +72,19 @@
 - [Day 14 (14a) - Authentication](./reading301/301-class-14a.md)
 - [Day 14 (14b) - Project Ideas](./reading301/301-class-14b.md)
 
-## Things I want to know more about
+## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-- [mongoDB]()
-- [auth0]()
-- [RESTful]()
-- const - "not going to be reassigned" what does that mean?
+- [Day 1 (01) - Introduction to React and Components](./reading401/401-class-01.md)
+- [Day 2 (02) - State and Props](./reading401/401-class-02.md)
+- [Day 3 (03) - Passing Functions as Props](./reading401/401-class-03.md)
+- [Day 4 (04) - React and Forms](./reading401/401-class-04.md)
+- [Day 5 (05) - Putting it all together](./reading401/401-class-05.md)
+- [Day 6 (06) - NODE.JS](./reading401/401-class-06.md)
+- [Day 7 (07) - REST](./reading401/401-class-07.md)
+- [Day 8 (08) - APIs](./reading401/401-class-08.md)
+- [Day 9 (09) - FUNCTIONAL PROGRAMMING](./reading401/401-class-09.md)
+- [Day 10 (10) - In memory storage](./reading401/401-class-10.md)
+- [Day 11 (11) - Mongo and Mongoose](./reading401/401-class-11.md)
+- [Day 12 (12) - CRUD](./reading401/401-class-12.md)
+- [Day 13 (13) - Diversity & Inclusion in the Tech Industry](./reading401/401-class-13.md)
+- [Day 14 (14) - Authentication](./reading401/401-class-14a.md)
