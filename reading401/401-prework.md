@@ -38,36 +38,40 @@ Practice skills at:
 
 ### [Act like you make $1000/hr](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
 
-1. _Describe:_ it iterates
-2. _Describe:_ it goes through a
-3. _Provide code snippets:_ blah
+- Essentially, when you hold your time as highly valuable, you will find it easier (if not essential) to say no to more things. It will allow you be more productive by bringing an awareness of how much time is being spent on tasks, thus providing the opportunity to become more efficient.
 
 <!-- ----------------------- -->
 
-[How to think like a programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+### [How to think like a programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 
-1. _Describe:_ it iterates
-2. _Describe:_ it goes through a
-3. _Provide code snippets:_ blah
+1. Understand the problem: you'll know you understand the problem when you can explain it in plain english (say to a non-programmer or rubber duck)
+1. Plan the Solution: use comments to write out pseudocode for each step that needs to happen
+1. Divide: chop up big problems into smaller problems and solve each one, starting with the easiest.
+1. Stuck?: try to be more curious (rather than irritated) about where it's going wrong. step through the solution to find where it is failing, then reassess. Research if needed.
+1. Practice: The more problems you solve, the better you will become at implementing this process.
 
-[The 5 Whys](https://www.mindtools.com/pages/article/newTMC_5W.htm)
+### [The 5 Whys](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 
-1. _Describe:_ it iterates
-2. _Describe:_ it goes through a
-3. _Provide code snippets:_ blah
+1. Assemble a Team
+2. Define the Problem
+3. Ask the First "Why?"
+4. Ask "Why?" Four More Times
+5. Know When to Stop
+6. Address the Root Cause(s)
+7. Monitor Your Measures
 
 ### Watch these videos
 
-[what the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-[The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
+- [what the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
 
 ### Download/Purchase/Bookmark the following
 
 _We will be referencing them throughout the course._
 
-[ES6 Features](http://es6-features.org/)
-[Eloquent JavaScript](http://eloquentjavascript.net/)
-[You Don’t Know JS series](https://github.com/getify/You-Dont-Know-JS)
+- [ES6 Features](http://es6-features.org/)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [You Don’t Know JS series](https://github.com/getify/You-Dont-Know-JS)
 
 ## Things I want to know more about
 
